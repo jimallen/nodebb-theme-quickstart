@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "locavorehunter",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "Theme for locavorehunber",
   "main": "theme.less",
   "keywords": [],
   "license": "MIT"

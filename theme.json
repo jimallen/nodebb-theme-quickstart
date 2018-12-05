@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "locavorehunter",
+    "name": "Locavorehunter theme",
+    "description": "Theme for locavorehunter.com",
+    "url": "https://github.com/jimallen/nodebb-theme-quickstart"
 }
