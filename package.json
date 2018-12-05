@@ -1,5 +1,5 @@
 {
-  "name": "locavorehunter",
+  "name": "nodebb-theme-locavorehunter",
   "version": "0.0.0",
   "description": "Theme for locavorehunber",
   "main": "theme.less",
